@@ -1,5 +1,5 @@
 langchain
-langchain-ollama
+langchain-openai
 langchain_community
 langchain_core
 python-dotenv
